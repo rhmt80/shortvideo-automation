@@ -11,10 +11,6 @@ Here are some example videos created using Short Video Automation:
 
 
 
-https://github.com/ChetanXpro/short-video-automation/assets/107798155/1220d3d7-46ac-4c6f-90ad-9f9529a1bca6
-
-
-
 
 ## Overview
 
