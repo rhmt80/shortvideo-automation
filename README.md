@@ -9,7 +9,7 @@ Here are some example videos created using Short Video Automation:
 
 1. A fact video about earth.
 
-
+https://github.com/rhmt80/shortvideo-automation/blob/main/demo-video.mp4
 
 
 ## Overview
