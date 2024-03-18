@@ -38,12 +38,12 @@ Short Video Automation is a tool that simplifies the process of creating short v
 Clone the repository:
 
 ```bash
-https://github.com/ChetanXpro/short-video-automation.git
+https://github.com/rhmt80/shortvideo-automation.git
 cd short-video-automation
 ```
 
 Download and paste a base video which you want to use in project root dir
-You can test with this video: https://drive.google.com/file/d/1ZNN3GX2iR74FxrTM_6adDEnl6BA8gKcc/view?usp=sharing
+[You can test with this video: https://drive.google.com/file/d/19NqkcgTXKAmiWBguCiZUAhRGbEZEQbuW/view?usp=sharing
 
 Then find any interesting quora question and answer and paste its link in tool
 
