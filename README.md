@@ -38,8 +38,8 @@ Short Video Automation is a tool that simplifies the process of creating short v
 Clone the repository:
 
 ```bash
-https://github.com/rhmt80/shortvideo-automation.git
-cd short-video-automation
+$ git clone https://github.com/rhmt80/shortvideo-automation.git
+$ cd short-video-automation
 ```
 
 Download and paste a base video which you want to use in project root dir
